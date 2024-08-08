@@ -82,6 +82,7 @@ nav{
     padding: 15px 30px;
     border-radius: 10px;
     text-decoration: none;
+    margin-right: 10px;
 }
 .view-button{
     background-color: rgb(255, 255, 255);
@@ -89,6 +90,23 @@ nav{
     padding: 15px 30px;
     border-radius: 10px;
     text-decoration: none;
+}
+.getStart{
+    margin-top: 40px;
+}
+
+.learn{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin: 0 200px;
+}
+
+.online{
+    display: flex;
+    gap: 20px;
+    background-color: lightgray;
+    padding: 20px;
 }
 
 /* hero-section */
